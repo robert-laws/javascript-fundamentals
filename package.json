@@ -1,0 +1,15 @@
+{
+  "name": "javascript-fundamentals",
+  "version": "1.0.0",
+  "description": "Javascript Fundamentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Robert Laws",
+  "license": "ISC",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "server-static": "^2.0.5"
+  }
+}
